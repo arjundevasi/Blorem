@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test Blorem</string>
+    <string name="no_reminder_set">No reminders yet!</string>
+    <string name="welcome_to_blorem">Welcome to Blorem</string>
+    <string name="title_activity_add_reminder">Add Reminder</string>
+    <string name="remind_on">Remind on:</string>
+    <string name="exit">EXIT</string>
+    <string name="enter">ENTER</string>
+    <string name="place_details">Place Details</string>
+    <string name="place_name">Place Name</string>
+    <string name="radius_in_meters">Radius (in meters): </string>
+    <string name="radius">1000</string>
+    <string name="save">SAVE</string>
+    <string name="map_image">map_image</string>
+</resources>
