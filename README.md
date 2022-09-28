@@ -15,6 +15,7 @@ Then user selects the radius by which he wants to get reminded.
 ##Screenshots from the app:
 1.This is the main actvivty, Onclicking the Fab button the user is then taken to Mapview.
 the reason this activity is empty is because here, I wanted to show the broadcasts that were registered.(Found out you cannnot know what broadcast you sent,apart from using SQL).
+
 ![192733573-6e831621-3a15-4198-bf6d-178e1c683aeb](https://user-images.githubusercontent.com/27912546/192734959-cd1fa812-c5d8-46e6-ab24-0cdc80a7ee8e.png)
 
 
