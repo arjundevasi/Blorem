@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Test Blorem</string>
+    <string name="app_name">Blorem</string>
     <string name="no_reminder_set">Get reminder by location</string>
     <string name="welcome_to_blorem">Welcome to Blorem</string>
     <string name="title_activity_add_reminder">Add Reminder</string>
